@@ -1,6 +1,8 @@
-# Goals
+# WEB-FORM VALIDATION
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.12.
+# PROJECT DESCRIPTION
+A web form, also called a HTML form, helps us collect data from users by providing inputs in which users can fill in data. We will create a web form in which a user can fill in the details of a goal, that is, name, description and completion date to enable users to add goals from the user interface.
 
 ## Development server
 
